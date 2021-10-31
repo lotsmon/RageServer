@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMN+CkDfaOzOJ83qAVcVj/k7z8H4SYD7yv/Qh8TN45SXcle8rQ4QySHmVD7iWw5traUuDNYXkFRKxArJN/XAlA==",
+  "success": true,
+  "projectFilePath": "D:\\rage\\RAGEMP\\server-files\\dotnet\\resources\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anato\\.nuget\\packages\\gtanetwork.api\\1.1.0-dp1-2\\gtanetwork.api.1.1.0-dp1-2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="gtanetwork.api" Version="1.1.0-DP1-2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Bootstrapper">
+      <!-- путь к файлу Bootstrapper.dll который находить по пути ./dotnet/runtime/ -->
+      <HintPath>.\.\runtime\Bootstrapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+</Project>

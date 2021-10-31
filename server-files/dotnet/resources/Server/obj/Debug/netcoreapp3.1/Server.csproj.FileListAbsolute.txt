@@ -1,0 +1,10 @@
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\rage\RAGEMP\server-files\dotnet\resources\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
